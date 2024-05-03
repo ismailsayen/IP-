@@ -1,1254 +1,1254 @@
 [
     {
-        "category_id": "1363",
+        "id": "1363",
         "category_name": "|EU| FRANCE HEVC"
     },
     {
-        "category_id": "765",
+        "id": "765",
         "category_name": "|EU| FRANCE SPORTS"
     },
     {
-        "category_id": "1493",
+        "id": "1493",
         "category_name": "|EU| FRANCE DAZN PPV"
     },
     {
-        "category_id": "766",
+        "id": "766",
         "category_name": "|EU| FRANCE ENFANTS"
     },
     {
-        "category_id": "1152",
+        "id": "1152",
         "category_name": "|EU| FRANCE INFO"
     },
     {
-        "category_id": "764",
+        "id": "764",
         "category_name": "|EU| FRANCE CINEMA"
     },
     {
-        "category_id": "1375",
+        "id": "1375",
         "category_name": "|EU| FRANCE DOCUMENTAIRE"
     },
     {
-        "category_id": "763",
+        "id": "763",
         "category_name": "|EU| FRANCE MUSIQUE"
     },
     {
-        "category_id": "997",
+        "id": "997",
         "category_name": "|EU| LE MEILLEUR DES FILMS"
     },
     {
-        "category_id": "1275",
+        "id": "1275",
         "category_name": "|EU| FRANCE CARRIBEAN"
     },
     {
-        "category_id": "1058",
+        "id": "1058",
         "category_name": "|EU| FRANCE 4K"
     },
     {
-        "category_id": "1488",
+        "id": "1488",
         "category_name": "|AR| BEIN SPORTS AFC"
     },
     {
-        "category_id": "1478",
+        "id": "1478",
         "category_name": "|AR| BEIN SPORTS G 8K"
     },
     {
-        "category_id": "1164",
+        "id": "1164",
         "category_name": "|AR| BEIN SPORTS"
     },
     {
-        "category_id": "1477",
+        "id": "1477",
         "category_name": "|AR| BEIN REPLAY"
     },
     {
-        "category_id": "789",
+        "id": "789",
         "category_name": "|AR| BEIN SPORTS 4K"
     },
     {
-        "category_id": "1433",
+        "id": "1433",
         "category_name": "|AR| BEIN SPORTS \u1d41\u1d34\u1d30"
     },
     {
-        "category_id": "1425",
+        "id": "1425",
         "category_name": "|AR| BEIN SPORTS (UK)"
     },
     {
-        "category_id": "1301",
+        "id": "1301",
         "category_name": "|AR| STARZPLAY \/ AD SPORTS"
     },
     {
-        "category_id": "1183",
+        "id": "1183",
         "category_name": "|AR| SSC SPORTS"
     },
     {
-        "category_id": "1003",
+        "id": "1003",
         "category_name": "|AR| BEIN ENTERTAINMENT"
     },
     {
-        "category_id": "1118",
+        "id": "1118",
         "category_name": "|AR| BEIN PREMIUM PLAY"
     },
     {
-        "category_id": "797",
+        "id": "797",
         "category_name": "|AR| ARABIC NEWS & FACTUAL"
     },
     {
-        "category_id": "1396",
+        "id": "1396",
         "category_name": "|AR| ARABIC FULL SD"
     },
     {
-        "category_id": "1397",
+        "id": "1397",
         "category_name": "|AR| SPORT FULL SD"
     },
     {
-        "category_id": "790",
+        "id": "790",
         "category_name": "|AR| MOROCCO"
     },
     {
-        "category_id": "791",
+        "id": "791",
         "category_name": "|AR| ALGERIA"
     },
     {
-        "category_id": "792",
+        "id": "792",
         "category_name": "|AR| TUNISA"
     },
     {
-        "category_id": "795",
+        "id": "795",
         "category_name": "|AR| ISLAMIC"
     },
     {
-        "category_id": "796",
+        "id": "796",
         "category_name": "|AR| ARABIC KIDS"
     },
     {
-        "category_id": "1165",
+        "id": "1165",
         "category_name": "|AR| ROTANA | ART"
     },
     {
-        "category_id": "794",
+        "id": "794",
         "category_name": "|AR| MBC"
     },
     {
-        "category_id": "799",
+        "id": "799",
         "category_name": "|AR| OSN"
     },
     {
-        "category_id": "1289",
+        "id": "1289",
         "category_name": "|AR| AL FAJER"
     },
     {
-        "category_id": "793",
+        "id": "793",
         "category_name": "|AR| EGYPT"
     },
     {
-        "category_id": "1111",
+        "id": "1111",
         "category_name": "|AR| LEBANON"
     },
     {
-        "category_id": "1154",
+        "id": "1154",
         "category_name": "|AR| UAE"
     },
     {
-        "category_id": "1155",
+        "id": "1155",
         "category_name": "|AR| ABU DHABI SPORTS"
     },
     {
-        "category_id": "1157",
+        "id": "1157",
         "category_name": "|AR| MAURITANIA"
     },
     {
-        "category_id": "1096",
+        "id": "1096",
         "category_name": "|AR| LIBYA"
     },
     {
-        "category_id": "1158",
+        "id": "1158",
         "category_name": "|AR| BAHRAIN"
     },
     {
-        "category_id": "1112",
+        "id": "1112",
         "category_name": "|AR| JORDAN"
     },
     {
-        "category_id": "1084",
+        "id": "1084",
         "category_name": "|AR| YEMEN"
     },
     {
-        "category_id": "1151",
+        "id": "1151",
         "category_name": "|AR| SAOUDI"
     },
     {
-        "category_id": "1113",
+        "id": "1113",
         "category_name": "|AR| SYRIA"
     },
     {
-        "category_id": "1145",
+        "id": "1145",
         "category_name": "|AR| IRAQ"
     },
     {
-        "category_id": "858",
+        "id": "858",
         "category_name": "|AR| SUDAN"
     },
     {
-        "category_id": "1000",
+        "id": "1000",
         "category_name": "|AR| CHRISTIAN"
     },
     {
-        "category_id": "1161",
+        "id": "1161",
         "category_name": "|AR| PALESTINE"
     },
     {
-        "category_id": "1163",
+        "id": "1163",
         "category_name": "|AR| QATAR"
     },
     {
-        "category_id": "1065",
+        "id": "1065",
         "category_name": "|AR| KUWAIT"
     },
     {
-        "category_id": "800",
+        "id": "800",
         "category_name": "|AR| ARABIC VIP"
     },
     {
-        "category_id": "798",
+        "id": "798",
         "category_name": "|AR| SPORT"
     },
     {
-        "category_id": "1401",
+        "id": "1401",
         "category_name": "|AR| APPLE+ MLS PPV"
     },
     {
-        "category_id": "1468",
+        "id": "1468",
         "category_name": "|AR| WATCHBOX 4K"
     },
     {
-        "category_id": "1470",
+        "id": "1470",
         "category_name": "|AR| ACTORS 4K"
     },
     {
-        "category_id": "1471",
+        "id": "1471",
         "category_name": "|AR| ROYA"
     },
     {
-        "category_id": "1469",
+        "id": "1469",
         "category_name": "|AR| WEYYAK"
     },
     {
-        "category_id": "1467",
+        "id": "1467",
         "category_name": "|AR| MAJESTIC 4K"
     },
     {
-        "category_id": "1115",
+        "id": "1115",
         "category_name": "|AR| NETFLIX"
     },
     {
-        "category_id": "1110",
+        "id": "1110",
         "category_name": "|AR| SHAHID. CINEMA"
     },
     {
-        "category_id": "1024",
+        "id": "1024",
         "category_name": "|AR| GOBX GROUP"
     },
     {
-        "category_id": "1066",
+        "id": "1066",
         "category_name": "|AR| SHAHID. VIP"
     },
     {
-        "category_id": "1069",
+        "id": "1069",
         "category_name": "|AR| DRAMA PLAY"
     },
     {
-        "category_id": "1068",
+        "id": "1068",
         "category_name": "|AR| COMEDY PLAY"
     },
     {
-        "category_id": "1389",
+        "id": "1389",
         "category_name": "|AR| WATCH IT"
     },
     {
-        "category_id": "1390",
+        "id": "1390",
         "category_name": "|AR| STARZ PLAY"
     },
     {
-        "category_id": "1391",
+        "id": "1391",
         "category_name": "|AR| AMAZON PRIME"
     },
     {
-        "category_id": "1392",
+        "id": "1392",
         "category_name": "|AR| HBO"
     },
     {
-        "category_id": "1393",
+        "id": "1393",
         "category_name": "|AR| HULU"
     },
     {
-        "category_id": "1394",
+        "id": "1394",
         "category_name": "|AR| TOD"
     },
     {
-        "category_id": "1395",
+        "id": "1395",
         "category_name": "|AR| VIVO"
     },
     {
-        "category_id": "943",
+        "id": "943",
         "category_name": "|AR| PREMIUM PLAY"
     },
     {
-        "category_id": "1179",
+        "id": "1179",
         "category_name": "|AR| MUSIC"
     },
     {
-        "category_id": "1119",
+        "id": "1119",
         "category_name": "|AR| CHEF OMAR"
     },
     {
-        "category_id": "813",
+        "id": "813",
         "category_name": "|EU| BELGIQUE HD"
     },
     {
-        "category_id": "1287",
+        "id": "1287",
         "category_name": "|EU| BELGIUM VL"
     },
     {
-        "category_id": "1288",
+        "id": "1288",
         "category_name": "|EU| BELGIUM WL"
     },
     {
-        "category_id": "1376",
+        "id": "1376",
         "category_name": "|NL| ALGEMEEN"
     },
     {
-        "category_id": "1377",
+        "id": "1377",
         "category_name": "|NL| SPORT"
     },
     {
-        "category_id": "1378",
+        "id": "1378",
         "category_name": "|NL| VIAPLAY SPORT"
     },
     {
-        "category_id": "1441",
+        "id": "1441",
         "category_name": "|NL| ESPN PLAY PPV"
     },
     {
-        "category_id": "1380",
+        "id": "1380",
         "category_name": "|NL| KINDEREN"
     },
     {
-        "category_id": "1379",
+        "id": "1379",
         "category_name": "|NL| FILMS EN SERIES"
     },
     {
-        "category_id": "1381",
+        "id": "1381",
         "category_name": "|NL| ENTERTAINMENT"
     },
     {
-        "category_id": "1382",
+        "id": "1382",
         "category_name": "|NL| MUZIEK"
     },
     {
-        "category_id": "1383",
+        "id": "1383",
         "category_name": "|NL| NATUUR"
     },
     {
-        "category_id": "1384",
+        "id": "1384",
         "category_name": "|NL| REGIONAAL"
     },
     {
-        "category_id": "1387",
+        "id": "1387",
         "category_name": "|NL| BUITENLAND"
     },
     {
-        "category_id": "1168",
+        "id": "1168",
         "category_name": "|EU| NEDERLAND 4K ULTRA"
     },
     {
-        "category_id": "1312",
+        "id": "1312",
         "category_name": "|ES| REPETICI\u00d3N DE F\u00daTBOL"
     },
     {
-        "category_id": "1144",
+        "id": "1144",
         "category_name": "|ES| ESPA\u00d1A HEVC"
     },
     {
-        "category_id": "802",
+        "id": "802",
         "category_name": "|ES| GENERAL"
     },
     {
-        "category_id": "1120",
+        "id": "1120",
         "category_name": "|ES| DEPORTES"
     },
     {
-        "category_id": "1434",
+        "id": "1434",
         "category_name": "|ES| ESPA\u00d1A DAZN PPV"
     },
     {
-        "category_id": "1125",
+        "id": "1125",
         "category_name": "|ES| CINEMA"
     },
     {
-        "category_id": "1126",
+        "id": "1126",
         "category_name": "|ES| NI\u00d1OS"
     },
     {
-        "category_id": "1123",
+        "id": "1123",
         "category_name": "|ES| DOCUMENTALES"
     },
     {
-        "category_id": "1124",
+        "id": "1124",
         "category_name": "|ES| LOCALS"
     },
     {
-        "category_id": "1290",
+        "id": "1290",
         "category_name": "|ES| M.PELICULAS"
     },
     {
-        "category_id": "999",
+        "id": "999",
         "category_name": "|ES| 24\/7 SPANISH"
     },
     {
-        "category_id": "1232",
+        "id": "1232",
         "category_name": "|DE| ALLGEMEINES"
     },
     {
-        "category_id": "1233",
+        "id": "1233",
         "category_name": "|DE| SPORT"
     },
     {
-        "category_id": "1246",
+        "id": "1246",
         "category_name": "|DE| DAZN PRIME"
     },
     {
-        "category_id": "1431",
+        "id": "1431",
         "category_name": "|DE| DYN NETWORK"
     },
     {
-        "category_id": "1237",
+        "id": "1237",
         "category_name": "|DE| SKY FILM UND SERIE"
     },
     {
-        "category_id": "1240",
+        "id": "1240",
         "category_name": "|DE| KINDER"
     },
     {
-        "category_id": "1241",
+        "id": "1241",
         "category_name": "|DE| UNTERHALTUNG"
     },
     {
-        "category_id": "1244",
+        "id": "1244",
         "category_name": "|DE| REGIONAL"
     },
     {
-        "category_id": "1245",
+        "id": "1245",
         "category_name": "|DE| 4K+ PAKET"
     },
     {
-        "category_id": "1243",
+        "id": "1243",
         "category_name": "|DE| NATUR"
     },
     {
-        "category_id": "998",
+        "id": "998",
         "category_name": "|DE| 24\/7 GERMANY"
     },
     {
-        "category_id": "1307",
+        "id": "1307",
         "category_name": "|IT| GENERALE"
     },
     {
-        "category_id": "1308",
+        "id": "1308",
         "category_name": "|IT| CINEMA"
     },
     {
-        "category_id": "1309",
+        "id": "1309",
         "category_name": "|IT| SPORT"
     },
     {
-        "category_id": "1310",
+        "id": "1310",
         "category_name": "|IT| BAMBINI"
     },
     {
-        "category_id": "1311",
+        "id": "1311",
         "category_name": "|IT| DOCUMENTARIO"
     },
     {
-        "category_id": "1070",
+        "id": "1070",
         "category_name": "|UK| GENERAL"
     },
     {
-        "category_id": "1082",
+        "id": "1082",
         "category_name": "|UK| NEWS"
     },
     {
-        "category_id": "1077",
+        "id": "1077",
         "category_name": "|UK| ENTERTAINMENT"
     },
     {
-        "category_id": "1075",
+        "id": "1075",
         "category_name": "|UK| SPORTS"
     },
     {
-        "category_id": "1353",
+        "id": "1353",
         "category_name": "|UK| EPL SOCCER"
     },
     {
-        "category_id": "1354",
+        "id": "1354",
         "category_name": "|UK| EFL SOCCER"
     },
     {
-        "category_id": "1366",
+        "id": "1366",
         "category_name": "|UK| NATIONAL LEAGUE"
     },
     {
-        "category_id": "1360",
+        "id": "1360",
         "category_name": "|UK| AMAZON PRIME"
     },
     {
-        "category_id": "1439",
+        "id": "1439",
         "category_name": "|UK| DISCOVERY+ PPV"
     },
     {
-        "category_id": "1437",
+        "id": "1437",
         "category_name": "|UK| DAZN PPV"
     },
     {
-        "category_id": "1465",
+        "id": "1465",
         "category_name": "|UK| SKY STORE"
     },
     {
-        "category_id": "1358",
+        "id": "1358",
         "category_name": "|UK| VIAPLAY PPV"
     },
     {
-        "category_id": "1071",
+        "id": "1071",
         "category_name": "|UK| MOVIES"
     },
     {
-        "category_id": "1072",
+        "id": "1072",
         "category_name": "|UK| KIDS"
     },
     {
-        "category_id": "1405",
+        "id": "1405",
         "category_name": "|UK| 24\/7 KIDS"
     },
     {
-        "category_id": "1073",
+        "id": "1073",
         "category_name": "|UK| DOCUMENTARY"
     },
     {
-        "category_id": "1085",
+        "id": "1085",
         "category_name": "|UK| DISCOVERY+"
     },
     {
-        "category_id": "1083",
+        "id": "1083",
         "category_name": "|UK| 24\/7 FLEX"
     },
     {
-        "category_id": "1081",
+        "id": "1081",
         "category_name": "|UK| MUSIC"
     },
     {
-        "category_id": "1076",
+        "id": "1076",
         "category_name": "|UK| PPV EVENTS"
     },
     {
-        "category_id": "1352",
+        "id": "1352",
         "category_name": "|UK| WORLD SPORTS"
     },
     {
-        "category_id": "1355",
+        "id": "1355",
         "category_name": "|UK| SCOTTISH FOOTBALL"
     },
     {
-        "category_id": "1356",
+        "id": "1356",
         "category_name": "|UK| OTHER SPORTS"
     },
     {
-        "category_id": "1249",
+        "id": "1249",
         "category_name": "|EN| 24\/7 ENGLISH 4K"
     },
     {
-        "category_id": "1078",
+        "id": "1078",
         "category_name": "|IE| IRELAND"
     },
     {
-        "category_id": "1462",
+        "id": "1462",
         "category_name": "|IE| CLUBBER PPV"
     },
     {
-        "category_id": "1463",
+        "id": "1463",
         "category_name": "|IE| SETANTA PPV"
     },
     {
-        "category_id": "1464",
+        "id": "1464",
         "category_name": "|IE| LOI PPV"
     },
     {
-        "category_id": "1259",
+        "id": "1259",
         "category_name": "|PT| EMGERAL"
     },
     {
-        "category_id": "1260",
+        "id": "1260",
         "category_name": "|PT| DESPORTO"
     },
     {
-        "category_id": "1261",
+        "id": "1261",
         "category_name": "|PT| FILMES E S\u00c9RIES"
     },
     {
-        "category_id": "1262",
+        "id": "1262",
         "category_name": "|PT| DOCUMENTARIOS"
     },
     {
-        "category_id": "1263",
+        "id": "1263",
         "category_name": "|PT| CRIAN\u00c7AS"
     },
     {
-        "category_id": "1264",
+        "id": "1264",
         "category_name": "|PT| INTERNACIONAL"
     },
     {
-        "category_id": "812",
+        "id": "812",
         "category_name": "|EU| SWISS HD"
     },
     {
-        "category_id": "1336",
+        "id": "1336",
         "category_name": "|PL| POLAND FHD"
     },
     {
-        "category_id": "1198",
+        "id": "1198",
         "category_name": "|PL| INFORMACJE"
     },
     {
-        "category_id": "1197",
+        "id": "1197",
         "category_name": "|PL| FILMOWE"
     },
     {
-        "category_id": "1199",
+        "id": "1199",
         "category_name": "|PL| KULTURA"
     },
     {
-        "category_id": "1200",
+        "id": "1200",
         "category_name": "|PL| OG\u00d3LNE"
     },
     {
-        "category_id": "1202",
+        "id": "1202",
         "category_name": "|PL| MUZYKA | DZIECI"
     },
     {
-        "category_id": "1201",
+        "id": "1201",
         "category_name": "|PL| SPORTOWE"
     },
     {
-        "category_id": "1225",
+        "id": "1225",
         "category_name": "|PL| NA HD"
     },
     {
-        "category_id": "1203",
+        "id": "1203",
         "category_name": "|PL| VIAPLAY SPORT"
     },
     {
-        "category_id": "817",
+        "id": "817",
         "category_name": "|AS| TURKEY | ULUSAL"
     },
     {
-        "category_id": "1146",
+        "id": "1146",
         "category_name": "|AS| TURKEY | DIGER"
     },
     {
-        "category_id": "1149",
+        "id": "1149",
         "category_name": "|AS| TURKEY | COCUK"
     },
     {
-        "category_id": "1148",
+        "id": "1148",
         "category_name": "|AS| TURKEY | SINEMA"
     },
     {
-        "category_id": "1147",
+        "id": "1147",
         "category_name": "|AS| TURKEY | SPOR"
     },
     {
-        "category_id": "818",
+        "id": "818",
         "category_name": "|AS| KURDISTAN"
     },
     {
-        "category_id": "820",
+        "id": "820",
         "category_name": "|EU| CZECH"
     },
     {
-        "category_id": "819",
+        "id": "819",
         "category_name": "|EU| ISRAEL"
     },
     {
-        "category_id": "1206",
+        "id": "1206",
         "category_name": "|ALB| GENERAL"
     },
     {
-        "category_id": "1207",
+        "id": "1207",
         "category_name": "|ALB| NEWS"
     },
     {
-        "category_id": "1209",
+        "id": "1209",
         "category_name": "|ALB| MOVIES"
     },
     {
-        "category_id": "1208",
+        "id": "1208",
         "category_name": "|ALB| DOCUMENTARY"
     },
     {
-        "category_id": "1229",
+        "id": "1229",
         "category_name": "|ALB| CHILDREN"
     },
     {
-        "category_id": "1211",
+        "id": "1211",
         "category_name": "|ALB| SPORTS"
     },
     {
-        "category_id": "1212",
+        "id": "1212",
         "category_name": "|ALB| MUSIC"
     },
     {
-        "category_id": "1210",
+        "id": "1210",
         "category_name": "|ALB| ISLAMIC"
     },
     {
-        "category_id": "821",
+        "id": "821",
         "category_name": "|ALB| KOSOVO"
     },
     {
-        "category_id": "823",
+        "id": "823",
         "category_name": "|EU| ROMANIA"
     },
     {
-        "category_id": "1294",
+        "id": "1294",
         "category_name": "|GR| \u0393\u03b5\u03bd\u03b9\u03ba\u03ac"
     },
     {
-        "category_id": "1472",
+        "id": "1472",
         "category_name": "|GR| \u039d\u03c4\u03bf\u03ba\u03b9\u03bc\u03b1\u03bd\u03c4\u03ad\u03c1"
     },
     {
-        "category_id": "1473",
+        "id": "1473",
         "category_name": "|GR| \u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ac"
     },
     {
-        "category_id": "1295",
+        "id": "1295",
         "category_name": "|GR| \u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ac"
     },
     {
-        "category_id": "1296",
+        "id": "1296",
         "category_name": "|GR| \u03ba\u03b9\u03bd\u03b7\u03bc\u03b1\u03c4\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2"
     },
     {
-        "category_id": "1297",
+        "id": "1297",
         "category_name": "|GR| \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ac"
     },
     {
-        "category_id": "1298",
+        "id": "1298",
         "category_name": "|GR| \u03a0\u03b1\u03b9\u03b4\u03b9\u03ba\u03ac"
     },
     {
-        "category_id": "825",
+        "id": "825",
         "category_name": "|EU| RUSSIA"
     },
     {
-        "category_id": "1204",
+        "id": "1204",
         "category_name": "|EU| LITHUANIA"
     },
     {
-        "category_id": "1192",
+        "id": "1192",
         "category_name": "|BLN| SPORTS"
     },
     {
-        "category_id": "1186",
+        "id": "1186",
         "category_name": "|BLN| SERBIA"
     },
     {
-        "category_id": "1187",
+        "id": "1187",
         "category_name": "|BLN| CROATIA"
     },
     {
-        "category_id": "1188",
+        "id": "1188",
         "category_name": "|BLN| BOSNIA"
     },
     {
-        "category_id": "1190",
+        "id": "1190",
         "category_name": "|BLN| SLOVENIA"
     },
     {
-        "category_id": "1189",
+        "id": "1189",
         "category_name": "|BLN| MACEDONIA"
     },
     {
-        "category_id": "1191",
+        "id": "1191",
         "category_name": "|BLN| MONTENEGRO"
     },
     {
-        "category_id": "816",
+        "id": "816",
         "category_name": "|AU| AUSTRALIA"
     },
     {
-        "category_id": "1445",
+        "id": "1445",
         "category_name": "|AU| AU ESPN PLAY PPV"
     },
     {
-        "category_id": "947",
+        "id": "947",
         "category_name": "|AM| CANADA"
     },
     {
-        "category_id": "948",
+        "id": "948",
         "category_name": "|NA| CANADA FR"
     },
     {
-        "category_id": "1182",
+        "id": "1182",
         "category_name": "|NA| HOCKEY LEAGUE"
     },
     {
-        "category_id": "1436",
+        "id": "1436",
         "category_name": "|AM| CANADA DAZN PPV"
     },
     {
-        "category_id": "1444",
+        "id": "1444",
         "category_name": "|AM| AHL PPV"
     },
     {
-        "category_id": "949",
+        "id": "949",
         "category_name": "|NA| USA GENERAL"
     },
     {
-        "category_id": "1032",
+        "id": "1032",
         "category_name": "|NA| USA NEWS"
     },
     {
-        "category_id": "954",
+        "id": "954",
         "category_name": "|NA| USA KIDS"
     },
     {
-        "category_id": "1046",
+        "id": "1046",
         "category_name": "|NA| USA MOVIES"
     },
     {
-        "category_id": "950",
+        "id": "950",
         "category_name": "|NA| USA SPORTS"
     },
     {
-        "category_id": "1025",
+        "id": "1025",
         "category_name": "|NA| USA ABC"
     },
     {
-        "category_id": "1027",
+        "id": "1027",
         "category_name": "|NA| USA CBS"
     },
     {
-        "category_id": "1028",
+        "id": "1028",
         "category_name": "|NA| USA FOX"
     },
     {
-        "category_id": "1029",
+        "id": "1029",
         "category_name": "|NA| USA NBC"
     },
     {
-        "category_id": "1044",
+        "id": "1044",
         "category_name": "|NA| USA PBS"
     },
     {
-        "category_id": "1045",
+        "id": "1045",
         "category_name": "|NA| USA CW & MY"
     },
     {
-        "category_id": "1421",
+        "id": "1421",
         "category_name": "|NA| USA AMC+ NETWORK"
     },
     {
-        "category_id": "1422",
+        "id": "1422",
         "category_name": "|NA| USA HULU NETWORK"
     },
     {
-        "category_id": "1423",
+        "id": "1423",
         "category_name": "|NA| USA HBO MAX NETWORK"
     },
     {
-        "category_id": "1424",
+        "id": "1424",
         "category_name": "|NA| USA STARZ NETWORK"
     },
     {
-        "category_id": "1426",
+        "id": "1426",
         "category_name": "|NA| USA PEACOCK NETWORK"
     },
     {
-        "category_id": "1460",
+        "id": "1460",
         "category_name": "|NA| USA PARAMOUNT+"
     },
     {
-        "category_id": "1476",
+        "id": "1476",
         "category_name": "|NA| USA NAT GEO+ NETWORK"
     },
     {
-        "category_id": "1047",
+        "id": "1047",
         "category_name": "|NA| USA NBA"
     },
     {
-        "category_id": "1048",
+        "id": "1048",
         "category_name": "|NA| USA NFL"
     },
     {
-        "category_id": "1049",
+        "id": "1049",
         "category_name": "|NA| USA NHL"
     },
     {
-        "category_id": "1054",
+        "id": "1054",
         "category_name": "|NA| USA NBCS"
     },
     {
-        "category_id": "1050",
+        "id": "1050",
         "category_name": "|NA| USA MLB"
     },
     {
-        "category_id": "1291",
+        "id": "1291",
         "category_name": "|NA| USA MILB"
     },
     {
-        "category_id": "1051",
+        "id": "1051",
         "category_name": "|NA| USA NCAA"
     },
     {
-        "category_id": "1435",
+        "id": "1435",
         "category_name": "|NA| USA DAZN PPV"
     },
     {
-        "category_id": "1442",
+        "id": "1442",
         "category_name": "|NA| USA B1G+ PPV"
     },
     {
-        "category_id": "1443",
+        "id": "1443",
         "category_name": "|NA| USA FLO PPV"
     },
     {
-        "category_id": "1052",
+        "id": "1052",
         "category_name": "|NA| USA ESPN+"
     },
     {
-        "category_id": "1369",
+        "id": "1369",
         "category_name": "|NA| USA MLS"
     },
     {
-        "category_id": "1053",
+        "id": "1053",
         "category_name": "|NA| USA FLO"
     },
     {
-        "category_id": "1286",
+        "id": "1286",
         "category_name": "|NA| TUDN SPORTS"
     },
     {
-        "category_id": "953",
+        "id": "953",
         "category_name": "|NA| PPV LIVE EVENT"
     },
     {
-        "category_id": "1055",
+        "id": "1055",
         "category_name": "|NA| TELEMUNDO"
     },
     {
-        "category_id": "1056",
+        "id": "1056",
         "category_name": "|NA| UNIVISION"
     },
     {
-        "category_id": "1057",
+        "id": "1057",
         "category_name": "|NA| UNIMAS"
     },
     {
-        "category_id": "996",
+        "id": "996",
         "category_name": "|NA| 24\/7 ENGLISH"
     },
     {
-        "category_id": "826",
+        "id": "826",
         "category_name": "|EU| BULGARIA"
     },
     {
-        "category_id": "827",
+        "id": "827",
         "category_name": "|EU| HUNGARIA"
     },
     {
-        "category_id": "828",
+        "id": "828",
         "category_name": "|EU| UKRAINE"
     },
     {
-        "category_id": "830",
+        "id": "830",
         "category_name": "|AM| BRAZIL"
     },
     {
-        "category_id": "831",
+        "id": "831",
         "category_name": "|SA| LATINO"
     },
     {
-        "category_id": "1315",
+        "id": "1315",
         "category_name": "|AM| ARGENTINA"
     },
     {
-        "category_id": "1318",
+        "id": "1318",
         "category_name": "|AM| BOLIVIA"
     },
     {
-        "category_id": "1319",
+        "id": "1319",
         "category_name": "|AM| CHILE"
     },
     {
-        "category_id": "1329",
+        "id": "1329",
         "category_name": "|AM| PANAMA"
     },
     {
-        "category_id": "1320",
+        "id": "1320",
         "category_name": "|AM| COLOMBIA"
     },
     {
-        "category_id": "1321",
+        "id": "1321",
         "category_name": "|AM| HONDURAS"
     },
     {
-        "category_id": "1322",
+        "id": "1322",
         "category_name": "|AM| DOMINICANA REP"
     },
     {
-        "category_id": "1317",
+        "id": "1317",
         "category_name": "|AM| ECUADOR"
     },
     {
-        "category_id": "1438",
+        "id": "1438",
         "category_name": "|AM| ECUADOR DAZN PPV"
     },
     {
-        "category_id": "1323",
+        "id": "1323",
         "category_name": "|AM| EL SALVADOR"
     },
     {
-        "category_id": "1316",
+        "id": "1316",
         "category_name": "|AM| MEXICO"
     },
     {
-        "category_id": "1324",
+        "id": "1324",
         "category_name": "|AM| PARAGUAY"
     },
     {
-        "category_id": "1325",
+        "id": "1325",
         "category_name": "|AM| PERU"
     },
     {
-        "category_id": "1326",
+        "id": "1326",
         "category_name": "|AM| URUGUAY"
     },
     {
-        "category_id": "1327",
+        "id": "1327",
         "category_name": "|AM| COSTA RICA"
     },
     {
-        "category_id": "1351",
+        "id": "1351",
         "category_name": "|AM|\u00a0NICARAGUA"
     },
     {
-        "category_id": "834",
+        "id": "834",
         "category_name": "|AS| IRAN"
     },
     {
-        "category_id": "1223",
+        "id": "1223",
         "category_name": "WORLD CRICKET"
     },
     {
-        "category_id": "1016",
+        "id": "1016",
         "category_name": "|AS| INDIA - EU"
     },
     {
-        "category_id": "839",
+        "id": "839",
         "category_name": "|AS| INDIA"
     },
     {
-        "category_id": "852",
+        "id": "852",
         "category_name": "|AS| PAKISTAN"
     },
     {
-        "category_id": "1005",
+        "id": "1005",
         "category_name": "|AS| TAMIL"
     },
     {
-        "category_id": "1014",
+        "id": "1014",
         "category_name": "|AS| SPORTS"
     },
     {
-        "category_id": "1015",
+        "id": "1015",
         "category_name": "|AS| ENGLISH"
     },
     {
-        "category_id": "1009",
+        "id": "1009",
         "category_name": "|AS| BANGLA"
     },
     {
-        "category_id": "1007",
+        "id": "1007",
         "category_name": "|AS| PUNJABI"
     },
     {
-        "category_id": "1010",
+        "id": "1010",
         "category_name": "|AS| GUJARATI"
     },
     {
-        "category_id": "1008",
+        "id": "1008",
         "category_name": "|AS| MALAYALAM"
     },
     {
-        "category_id": "1011",
+        "id": "1011",
         "category_name": "|AS| MARATHI"
     },
     {
-        "category_id": "1013",
+        "id": "1013",
         "category_name": "|AS| TELUGU"
     },
     {
-        "category_id": "1017",
+        "id": "1017",
         "category_name": "|AS| KANNADA"
     },
     {
-        "category_id": "1019",
+        "id": "1019",
         "category_name": "|AS| BHOJPURI"
     },
     {
-        "category_id": "1018",
+        "id": "1018",
         "category_name": "|AS| ASSAM"
     },
     {
-        "category_id": "1020",
+        "id": "1020",
         "category_name": "|AS| NEPAL"
     },
     {
-        "category_id": "971",
+        "id": "971",
         "category_name": "|AS| SRILANKA"
     },
     {
-        "category_id": "903",
+        "id": "903",
         "category_name": "|AF| C+ AFRIQUE"
     },
     {
-        "category_id": "861",
+        "id": "861",
         "category_name": "|AF| DSTV AFRIQUE"
     },
     {
-        "category_id": "1079",
+        "id": "1079",
         "category_name": "|AF| SOMALIA"
     },
     {
-        "category_id": "1279",
+        "id": "1279",
         "category_name": "|AF| SENEGAL"
     },
     {
-        "category_id": "829",
+        "id": "829",
         "category_name": "|AF| AFRIQUE OTHERS"
     },
     {
-        "category_id": "1284",
+        "id": "1284",
         "category_name": "|AF| CONGO\/GABON"
     },
     {
-        "category_id": "1282",
+        "id": "1282",
         "category_name": "|AF| MALI"
     },
     {
-        "category_id": "1285",
+        "id": "1285",
         "category_name": "|AF| CAMEROON"
     },
     {
-        "category_id": "1280",
+        "id": "1280",
         "category_name": "|AF| GHANA"
     },
     {
-        "category_id": "1281",
+        "id": "1281",
         "category_name": "|AF| NIGERIA"
     },
     {
-        "category_id": "851",
+        "id": "851",
         "category_name": "|AS| AFGHANISTAN"
     },
     {
-        "category_id": "963",
+        "id": "963",
         "category_name": "|EU| SWEDEN HD"
     },
     {
-        "category_id": "1440",
+        "id": "1440",
         "category_name": "|EU| SW DISCOVERY+ PPV"
     },
     {
-        "category_id": "964",
+        "id": "964",
         "category_name": "|EU| DENMARK HD"
     },
     {
-        "category_id": "965",
+        "id": "965",
         "category_name": "|EU| NORWAY HD"
     },
     {
-        "category_id": "966",
+        "id": "966",
         "category_name": "|EU| FINLAND HD"
     },
     {
-        "category_id": "845",
+        "id": "845",
         "category_name": "|AS| ARMENIA"
     },
     {
-        "category_id": "909",
+        "id": "909",
         "category_name": "|EU| GEORGIE"
     },
     {
-        "category_id": "967",
+        "id": "967",
         "category_name": "|AS| VIETNAM"
     },
     {
-        "category_id": "970",
+        "id": "970",
         "category_name": "|AS| HONGKONG"
     },
     {
-        "category_id": "968",
+        "id": "968",
         "category_name": "|AS| PHILIPPINES"
     },
     {
-        "category_id": "969",
+        "id": "969",
         "category_name": "|AS| SOUTH KOREA"
     },
     {
-        "category_id": "1021",
+        "id": "1021",
         "category_name": "|SA| CARRIBEAN"
     },
     {
-        "category_id": "808",
+        "id": "808",
         "category_name": "|EU| AUSTRIA HD"
     },
     {
-        "category_id": "1361",
+        "id": "1361",
         "category_name": "|EU| AUSTRIA PLUTO TV"
     },
     {
-        "category_id": "1169",
+        "id": "1169",
         "category_name": "|NZ| NEW ZEALAND"
     },
     {
-        "category_id": "1170",
+        "id": "1170",
         "category_name": "|SA| SURINAME"
     },
     {
-        "category_id": "1195",
+        "id": "1195",
         "category_name": "|TH| THAILANDE"
     },
     {
-        "category_id": "1205",
+        "id": "1205",
         "category_name": "|AZ| AZERBAYCAN"
     },
     {
-        "category_id": "1347",
+        "id": "1347",
         "category_name": "JAPAN"
     },
     {
-        "category_id": "1213",
+        "id": "1213",
         "category_name": "|MT| MALTA"
     },
     {
-        "category_id": "1247",
+        "id": "1247",
         "category_name": "|AS| INDONESIA"
     },
     {
-        "category_id": "1293",
+        "id": "1293",
         "category_name": "|EU| CYPRUS"
     },
     {
-        "category_id": "1364",
+        "id": "1364",
         "category_name": "|AS| MALAYSIA"
     }
 ]
